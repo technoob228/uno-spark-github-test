@@ -1,6 +1,6 @@
 import { greet } from './lib/greet.js';
 
-export const VERSION = 1;
+export const VERSION = 2;
 
 export default {
   async fetch(request, env) {

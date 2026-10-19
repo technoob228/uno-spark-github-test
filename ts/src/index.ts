@@ -1,4 +1,4 @@
-const VERSION: number = 1;
+const VERSION: number = 2;
 
 export default {
   async fetch(request: Request, env: any): Promise<Response> {

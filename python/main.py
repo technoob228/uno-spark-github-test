@@ -1,7 +1,7 @@
 import spark
 from helpers import greet
 
-VERSION = 1
+VERSION = 2
 
 
 def fetch(request, env):
